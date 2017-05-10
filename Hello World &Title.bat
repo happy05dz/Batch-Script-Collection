@@ -2,4 +2,4 @@
 @echo OFF
 title Hello World !
 echo "Hello World !"
-pause
+pause >nul

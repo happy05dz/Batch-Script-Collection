@@ -2,7 +2,7 @@
 @echo OFF
 color 0A
 echo "Hello World !"
-pause
+pause >nul
 
 ::    0 = Noir          8 = Gris
 ::    1 = Bleu          9 = Bleu clair

@@ -1,6 +1,6 @@
 ::Earth ASCII Animation
 @echo OFF
-Title @atrix
+Title Earth ASCII Animation
 color 0A
 echo.
 :earth
